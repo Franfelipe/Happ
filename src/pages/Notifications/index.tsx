@@ -24,44 +24,44 @@ function Notifications() {
             {
                 module: {
                     module_id: "process",
-                    module_name:"Processo"
+                    module_name:"Reunião CEO"
                 },
                 _id:"5f7e331a69f6f54fa8c667df",
                 createAt: new Date("2020-10-20T18:28:58.000Z"),
-                description:"Teste",
+                description:"Reunião com o Ceo da empresa parceira",
                 identifier:"5f7380d01ecf7014324e615e",
                 url:"/process/5f7380d01ecf7014324e615e"
             },
             {
                 module: {
                     module_id: "process",
-                    module_name:"Processo"
+                    module_name:"1ª entrega"
                 },
                 _id:"5f7e331a6duef54fa8c667df",
                 createAt: new Date("2020-10-07T18:28:58.000Z"),
-                description:"Teste",
+                description:"Entrega do MVP",
                 identifier:"5f7380d01ecf7014324e615e",
                 url:"/process/5f7380d01ecf7014324e615e"
             },
             {
                 module: {
                     module_id: "process",
-                    module_name:"Processo"
+                    module_name:"Reunião agendada"
                 },
                 _id:"5f7e331a69f64hdfa8c667df",
                 createAt: new Date("2020-10-03T18:28:58.000Z"),
-                description:"Teste",
+                description:"Reunião com os funcionários",
                 identifier:"5f7380d01ecf7014324e615e",
                 url:"/process/5f7380d01ecf7014324e615e"
             },
             {
                 module:{
                     module_id:"process",
-                    module_name:"Processo"
+                    module_name:"Reunião agendada"
                 },
                 _id:"5f7e331969f6f54fa8c667dc",
                 createAt: new Date("2020-10-07T18:28:57.000Z"),
-                description:"Teste",
+                description:"Reunião empresa investidora",
                 identifier:"5f7380d01ecf7014324e615e",
                 url:"/process/5f7380d01ecf7014324e615e"
             }

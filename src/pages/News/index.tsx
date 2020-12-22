@@ -22,7 +22,7 @@ function News() {
     const [news, setNews] = useState<NewsItems>({
         month : [
             {
-              date: new Date("2020-01-01T03:00:00.000Z"),
+              date: new Date("2020-12-01T03:00:00.000Z"),
               content:[
                 {
                   _id:"5f7378933e2c9f63ee7c83dd",
@@ -37,7 +37,7 @@ function News() {
               ]
             },
             {
-              date: new Date("2020-01-02T03:00:00.000Z"),
+              date: new Date("2020-12-02T03:00:00.000Z"),
               content:[
                 {
                 _id:"2ae47378933e2c9f63ee7c83dd",
@@ -47,19 +47,19 @@ function News() {
               ]
             },
             {
-              date: new Date("2020-01-03T03:00:00.000Z"),
+              date: new Date("2020-12-03T03:00:00.000Z"),
               content:[],
             },
             {
-              date: new Date("2020-01-04T03:00:00.000Z"),
+              date: new Date("2020-12-04T03:00:00.000Z"),
               content:[],
             },
             {
-              date: new Date("2020-01-05T03:00:00.000Z"),
+              date: new Date("2020-12-05T03:00:00.000Z"),
               content:[],
             },
             {
-              date: new Date("2020-01-06T03:00:00.000Z"),
+              date: new Date("2020-12-06T03:00:00.000Z"),
               content:[
                 {
                 _id:"127378933e2c9f63ee7c83dd",
@@ -69,7 +69,7 @@ function News() {
               ],
             },
             {
-              date: new Date("2020-10-26T03:00:00.000Z"),
+              date: new Date("2020-12-26T03:00:00.000Z"),
               content:[
                 {
                 _id:"987378933e2c9f63ee7c83dd",
@@ -79,7 +79,7 @@ function News() {
               ],
             },
             {
-              date: new Date("2020-10-28T03:00:00.000Z"),
+              date: new Date("2020-12-28T03:00:00.000Z"),
               content:[
                 {
                 _id:"7f7378933e2c9f63ee7c83dd",
@@ -89,7 +89,7 @@ function News() {
               ],
             },
             {
-              date: new Date("2020-10-29T03:00:00.000Z"),
+              date: new Date("2020-12-29T03:00:00.000Z"),
               content:[
                 {
                 _id:"8jd378933e2c9f63ee7c83dd",

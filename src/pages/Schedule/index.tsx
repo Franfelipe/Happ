@@ -32,7 +32,7 @@ function Schedule() {
           content:[
             {
               _id:"5f7378933e2c9f63ee7c83dd",
-              hour:"16:00",
+              hour:"14:00",
               status:"Aguardando",
               color: "#fcb900",
               processNumber:"85598772452441",
@@ -46,9 +46,9 @@ function Schedule() {
               status:"Aguardando",
               color: "#fcb900",
               processNumber:"855987724541",
-              expertName: 'Gustavo',
+              expertName: 'Rodrigo',
               expertiseDate: new Date('2020-01-01T03:00:00.000Z'),
-              place: 'Comarca',
+              place: 'Empresa',
             }
           ]
         },
@@ -88,7 +88,7 @@ function Schedule() {
               status:"Aguardando",
               color: "#fcb900",
               processNumber:"855294841",
-              expertName: 'Gustavo',
+              expertName: 'Leonardo',
               expertiseDate: new Date('2020-01-06T03:00:00.000Z'),
               place: 'Unochapecó',
             }
@@ -103,7 +103,7 @@ function Schedule() {
               status:"Aguardando",
               color: "#fcb900",
               processNumber:"855294841",
-              expertName: 'Gustavo',
+              expertName: 'Gabriel',
               expertiseDate: new Date('2020-01-06T03:00:00.000Z'),
               place: 'Unochapecó',
             }
@@ -118,7 +118,7 @@ function Schedule() {
               status:"Aguardando",
               color: "#fcb900",
               processNumber:"855294841",
-              expertName: 'Gustavo',
+              expertName: 'Gian',
               expertiseDate: new Date('2020-01-06T03:00:00.000Z'),
               place: 'Unochapecó',
             }
